@@ -1,12 +1,12 @@
 {
 	"gammaAccess": {
-		"url": "http://192.168.2.232:3000",
+		"url": "http://192.168.3.47:3000",
 		"userName": "admin@mygamma.io",
 		"password": "admin"
 	},
 	"repositories": [{
 		"repository": {
-			"uid": "5ac42c86c3314979648a405818523f48",
+			"uid": "a6d97ced3c51d911f88bba331b2e0509",
 			"projectName": "JenkinsPlugin_Java-GG",
 			"sources": {
 				"baseDir": "%WORKSPACE%"
