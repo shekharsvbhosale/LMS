@@ -1,12 +1,12 @@
 {
 	"gammaAccess": {
 		"url": "http://192.168.2.232:3000",
-		"userName": "chandrashekhar.bhosale@acellere.com",
-		"password": "admin123"
+		"userName": "admin@mygamma.io",
+		"password": "admin"
 	},
 	"repositories": [{
 		"repository": {
-			"uid": "c216b07e7b464e469f2c74f759f305ea",
+			"uid": "5ac42c86c3314979648a405818523f48",
 			"projectName": "JenkinsPlugin_Java-GG",
 			"sources": {
 				"baseDir": "%WORKSPACE%"
