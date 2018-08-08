@@ -1,18 +1,18 @@
 {
 	"gammaAccess": {
-		"url": "http://192.168.3.47:3000",
-		"userName": "admin@mygamma.io",
-		"password": "admin"
+		"url": "http://192.168.2.236:3000",
+		"userName": "chandrashekhar.bhosale@acellere.com",
+		"password": "admin1234"
 	},
 	"repositories": [{
 		"repository": {
-			"uid": "a6d97ced3c51d911f88bba331b2e0509",
+			"uid": "86d1a7fe0abd815a5724b349f5ea7143",
 			"projectName": "JenkinsPlugin_Java-GG",
 			"sources": {
-				"baseDir": "%WORKSPACE%"
+				"baseDir": "$WORKSPACE"
 			}
 		},
-		"dataDir": "C:\\Shekhar-Acellere\\GitRepos\\Java\\GG-dataDir",
+		"dataDir": "/opt/gamma/gamma_data/Java/GG-dataDir",
 		"modules": {
 			"codeissues": [{
 				"name": "pmd"
