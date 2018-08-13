@@ -12,7 +12,7 @@
 				"baseDir": "$WORKSPACE"
 			}
 		},
-		"dataDir": "/opt/gamma/gamma_data/Java/GokhanGirgin-dataDir",
+		"dataDir": "C:/Shekhar-Acellere/GitRepos/Java/GokhanGirgin_JP",
 		"modules": {
 			"codeissues": [{
 				"name": "pmd"
