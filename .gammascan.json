@@ -1,18 +1,18 @@
 {
 	"gammaAccess": {
-		"url": "http://192.168.2.236:3000",
+		"url": "http://192.168.2.232:3000",
 		"userName": "chandrashekhar.bhosale@acellere.com",
-		"password": "admin1234"
+		"password": "admin123"
 	},
 	"repositories": [{
 		"repository": {
-			"uid": "523d61809b36b4edb18dfc09728fd8a3",
+			"uid": "84a8db9e08b65f2c42e0d60e3cd8e430",
 			"projectName": "JenkinsPlugin_Java-GohanGirgin",
 			"sources": {
 				"baseDir": "%WORKSPACE%"
 			}
 		},
-		"dataDir": "/opt/gamma/gamma_data/Java/GokhanGirgin_JP",
+		"dataDir": "C:/Shekhar-Acellere/GitRepos/Java/1308_1",
 		"modules": {
 			"codeissues": [{
 				"name": "pmd"
