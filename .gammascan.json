@@ -6,7 +6,7 @@
 	},
 	"repositories": [{
 		"repository": {
-			"uid": "523d61809b36b4edb18dfc09728fd8a3",
+			"uid": "d958ecc3ec1dd691fb835c4c530939f3",
 			"projectName": "JenkinsPlugin_Java-GohanGirgin",
 			"sources": {
 				"baseDir": "%WORKSPACE%"
