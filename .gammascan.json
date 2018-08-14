@@ -6,8 +6,8 @@
 	},
 	"repositories": [{
 		"repository": {
-			"uid": "5b94069b43593fd103ff28a4e68bbe42",
-			"projectName": "LocalJenkins_Java_GokhanGirgin_C2Win16",
+			"uid": "96db5a219df8177208d85b6771092fdb",
+			"projectName": "RemoteJenkins_Java_GokhanGirgin_U2CentOS7",
 			"sources": {
 				"baseDir": "$WORKSPACE"
 			}
