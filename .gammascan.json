@@ -9,7 +9,7 @@
 			"uid": "5b94069b43593fd103ff28a4e68bbe42",
 			"projectName": "LocalJenkins_Java_GokhanGirgin_C2Win16",
 			"sources": {
-				"baseDir": "%WORKSPACE%"
+				"baseDir": "$WORKSPACE"
 			}
 		},
 		"dataDir": "/opt/gamma/gamma_data",
