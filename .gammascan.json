@@ -6,13 +6,13 @@
 	},
 	"repositories": [{
 		"repository": {
-			"uid": "84a8db9e08b65f2c42e0d60e3cd8e430",
-			"projectName": "JenkinsPlugin_Java-GohanGirgin",
+			"uid": "5576c652a018b7d3140014189dffc920",
+			"projectName": "RemoteJenkins_Java_GokhanGirgin_C2Win16",
 			"sources": {
 				"baseDir": "%WORKSPACE%"
 			}
 		},
-		"dataDir": "C:/Shekhar-Acellere/GitRepos/Java/1308_1",
+		"dataDir": "C:/Shekhar-Acellere/GitRepos/Java/RJ_C2Win_GokhanGirgin_Java_1",
 		"modules": {
 			"codeissues": [{
 				"name": "pmd"
