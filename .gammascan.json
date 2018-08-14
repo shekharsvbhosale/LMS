@@ -1,13 +1,13 @@
 {
 	"gammaAccess": {
-		"url": "http://192.168.2.236:3000",
+		"url": "http://192.168.2.11:3000",
 		"userName": "chandrashekhar.bhosale@acellere.com",
 		"password": "admin1234"
 	},
 	"repositories": [{
 		"repository": {
-			"uid": "d958ecc3ec1dd691fb835c4c530939f3",
-			"projectName": "JenkinsPlugin_Java-GohanGirgin",
+			"uid": "5b94069b43593fd103ff28a4e68bbe42",
+			"projectName": "LocalJenkins_Java_GokhanGirgin_C2Win16",
 			"sources": {
 				"baseDir": "%WORKSPACE%"
 			}
